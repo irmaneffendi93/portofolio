@@ -32,7 +32,7 @@ Halaman error menampilkan "Bad gateway, Error code 502". Diagnostik Cloudflare p
 - **Cloudflare:** Working
 - **Host (origin server):** Error
 
-![Error 502 sebelum perbaikan](images/01-sebelum-error-502.jpeg)
+(images/01-sebelum-error-502.jpeg)
 
 ## Analisis
 
@@ -56,7 +56,7 @@ Perbaikan ini memulihkan tabel tanpa menghapus datanya.
 
 Status "in use" hilang dan situs kembali dapat diakses dengan normal, termasuk halaman beranda dan slider.
 
-![Situs normal setelah perbaikan](images/02-sesudah-situs-normal.jpg)
+(images/02-sesudah-situs-normal.jpg)
 
 ## Pencegahan dan Rekomendasi
 
