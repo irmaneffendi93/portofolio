@@ -32,7 +32,7 @@ Halaman error menampilkan "Bad gateway, Error code 502". Diagnostik Cloudflare p
 - **Cloudflare:** Working
 - **Host (origin server):** Error
 
-(images/01-sebelum-error-502.jpeg)
+01-sebelum-error-502.jpeg)
 
 ## Analisis
 
